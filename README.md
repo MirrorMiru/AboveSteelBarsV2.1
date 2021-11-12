@@ -1,6 +1,6 @@
 <h1 align="center">Above Steel Bars</h1>
 
-Version 1.2. Full release 1(.2), now with minor bug fixes.
+Version 2.1. Full release 2(.1), now with 2 levels.
 
 ![Logo](https://github.com/MirrorMiru/MIRU/blob/main/Bruh.png)
 
